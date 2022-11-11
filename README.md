@@ -14,3 +14,5 @@ go install -v github.com/dean2032/simplewebserver@latest
 ```sh
 cd /path/to/dir && simplehttpserver
 ```
+
+Have Fun!
